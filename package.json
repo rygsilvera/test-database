@@ -1,0 +1,21 @@
+{
+  "name": "test-database",
+  "version": "1.0.0",
+  "description": "An example of automated database testing",
+  "type": "module",
+  "main": "index.js",
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "example",
+    "automation",
+    "database"
+  ],
+  "author": "Ryan Silvera rygsilvera@gmail.com",
+  "license": "ISC"
+}
