@@ -1,31 +1,37 @@
 # Project Title
-* Simple overview and purpose
+* My Practice Database
 
 # Description
-* An in-depth paragraph about your project and overview of use.
+* A simple MySQL database mimicking a Magic the Gathering collection setup for local testing purposes
 
 # Dependencies
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+* Mac OS 14+
+* Node JS
+* MySQL
+* Mocha
+* Chai
 
 # Installing
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* Once dependencies are setup locally, all required files are available in this project
 
 # Executing Programs
-* How to run the program
-* Step-step bullet point instructions
+* Open terminal
+* Navigate to root project folder
+* Executed the following:
+    * [ Default ] mocha fileNameHere.js
+    * [ Save JSON Report to File ] mocha -R json --reporter-options output=fileNameHere.json testNameHere.js 
 
 # Help
-* Any advise for common problems or issues.
+* For any questions, contact the author(s)
 
 # Authors
 * Ryan Silvera / @rygsilvera / rygsilvera@gmail.com
 
-# Verison History
+# Version History
 * v1.0.0
 
-# Liscense
-* None
+# License
+* ISC
 
 # Acknowledge
-* Additional supported information
+* This project only exist to provide visibility into my personal practice utilizing multiple testing tools

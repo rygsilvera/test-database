@@ -1,0 +1,108 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 5,
+    "passes": 5,
+    "pending": 0,
+    "failures": 0,
+    "start": "2024-10-02T22:45:32.332Z",
+    "end": "2024-10-02T22:45:32.348Z",
+    "duration": 16
+  },
+  "tests": [
+    {
+      "title": "Should contain the Omniscience card object @p1",
+      "fullTitle": "Magic the Gathering Database Should contain the Omniscience card object @p1",
+      "file": "/Users/ryansilvera/Portfolio/test-database/mtg-collection.tests.js",
+      "duration": 12,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Omniscience's title is 'omniscience' @p1",
+      "fullTitle": "Magic the Gathering Database Omniscience's title is 'omniscience' @p1",
+      "file": "/Users/ryansilvera/Portfolio/test-database/mtg-collection.tests.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Omniscience's color is 'u' (Blue) @p1",
+      "fullTitle": "Magic the Gathering Database Omniscience's color is 'u' (Blue) @p1",
+      "file": "/Users/ryansilvera/Portfolio/test-database/mtg-collection.tests.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Omniscience's cost is 10 @p1",
+      "fullTitle": "Magic the Gathering Database Omniscience's cost is 10 @p1",
+      "file": "/Users/ryansilvera/Portfolio/test-database/mtg-collection.tests.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Omniscience's rarity is 'm' (Mythic) @p1",
+      "fullTitle": "Magic the Gathering Database Omniscience's rarity is 'm' (Mythic) @p1",
+      "file": "/Users/ryansilvera/Portfolio/test-database/mtg-collection.tests.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "Should contain the Omniscience card object @p1",
+      "fullTitle": "Magic the Gathering Database Should contain the Omniscience card object @p1",
+      "file": "/Users/ryansilvera/Portfolio/test-database/mtg-collection.tests.js",
+      "duration": 12,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Omniscience's title is 'omniscience' @p1",
+      "fullTitle": "Magic the Gathering Database Omniscience's title is 'omniscience' @p1",
+      "file": "/Users/ryansilvera/Portfolio/test-database/mtg-collection.tests.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Omniscience's color is 'u' (Blue) @p1",
+      "fullTitle": "Magic the Gathering Database Omniscience's color is 'u' (Blue) @p1",
+      "file": "/Users/ryansilvera/Portfolio/test-database/mtg-collection.tests.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Omniscience's cost is 10 @p1",
+      "fullTitle": "Magic the Gathering Database Omniscience's cost is 10 @p1",
+      "file": "/Users/ryansilvera/Portfolio/test-database/mtg-collection.tests.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "Omniscience's rarity is 'm' (Mythic) @p1",
+      "fullTitle": "Magic the Gathering Database Omniscience's rarity is 'm' (Mythic) @p1",
+      "file": "/Users/ryansilvera/Portfolio/test-database/mtg-collection.tests.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ]
+}
